@@ -1,12 +1,4 @@
-// public class Main{
-//     public static void main(String[] args) {
-//         Cookie cookie= new Cookie("Green");
-//         Cookie cookie2= new Cookie("Blue");
-//         cookie.setColor("red");
-//         System.out.println(cookie.getColor());
-//         System.out.println(cookie2.getColor());
-//     }
-// }
+
 public class Main{
     public static void main(String[] args) {
         LinkedList lt= new LinkedList(5);
